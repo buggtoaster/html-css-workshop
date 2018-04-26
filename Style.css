@@ -1,0 +1,18 @@
+* {
+  font-family: sans-serif;
+}
+
+p {
+  color: cyan;
+  background: black;
+  text-shadow: 3px 2px red;
+}
+
+h1 {
+  font-size: 80px;
+  font-family: sans-serif; 
+}
+
+div {
+  border: solid 1px;
+}
